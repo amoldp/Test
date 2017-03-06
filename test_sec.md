@@ -1,1 +1,1 @@
-AWS
+awsSecretkey=aBcDeEfFgG23xv55wd4h56
