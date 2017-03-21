@@ -1,1 +1,1 @@
-awsSecretKey=aaBcDeEfFgG23xv55wd4aaBcDeEfFgG23xv55wd4
+awsAccessKey=aaBcDeEfFgG23xv55wd4aaBcDeE
